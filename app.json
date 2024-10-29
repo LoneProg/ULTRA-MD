@@ -18,9 +18,9 @@
       "value": "ULTRA-MD"
     },
     "DATABASE_URL": {
-      "description": "your mongodb or database url",
+      "description": "Your Database Url",
       "required": false,
-      "value": ""
+      "value": "mongodb+srv://mohsin:mohsin@cluster0.iauaztt.mongodb.net/?retryWrites=true&w=majority"
     },
     "MODE": {
       "description": "mode public or private",
